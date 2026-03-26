@@ -45,7 +45,7 @@ Class Room memiliki hubungan pewarisan (inheritance) dengan subclass Auditorium 
 ---
 
 ## Bagian 2 – Desain Class Diagram
-
+![Diagram-1](./Diagram-1.png)
 ---
 
 ## Bagian 3 – Implementasi Programn Java
